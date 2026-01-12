@@ -1,4 +1,6 @@
-# Buy-and-sell-web-page
-Full web page to sell all your products. (finishing construction)
+> [!NOTE]
+> This was a project that I created with a friend to learn about web development with Django.
 
-While learning about django i made this web page to sell products, you have to insert your data on settings.py if you want to use the mail and your paypal acount. 
+
+# Buy-and-sell-web-page
+Website that includes a system of user and password, allows you to sell and buy products via Paypal.
